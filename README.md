@@ -1,2 +1,2 @@
 # assemblyPlay
-test background for assembly
+This repository is a test of assembly tested.
